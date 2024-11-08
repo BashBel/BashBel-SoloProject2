@@ -1,0 +1,40 @@
+body{
+    margin:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #c84c09;
+.bello-img{
+width: 150px;
+border-radius: 8px;
+}
+.card{
+    display: flex;
+    justify-content: space-around; 
+    padding:20px;
+    width: 550px;
+    background-color: #420217;
+    border-bottom: 6px solid #d2ff28;
+    margin:10px 10px auto;
+
+}
+.border{
+    color:#d2ff28 ;
+}
+
+.job{
+text-align: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    0
